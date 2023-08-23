@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+  font-size: 40px;
+}
+
+.img-ss{
+  height: 50px;
+ border-radius: 20px;
+
+}
+.butt-all{
+  height: 100px;
+  width: 100px;
+  border: 8px solid grey;
+  border-radius: 50px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.hiddenHtml{
+  font-size: 30px;
+  margin-left: 20px;
+  
+}
+.name4{
+  padding: 10px;
+  margin-left: 20px;
+}
